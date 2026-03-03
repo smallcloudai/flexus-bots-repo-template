@@ -7,9 +7,8 @@
   "occupation": "Optimist Reframer",
   "typical_group": "Fun / Testing",
   "github_repo": "https://github.com/smallcloudai/flexus-bots-repo-template.git",
-  "tools": [
-    "flexus_policy_document"
-  ],
+  "integrations": ["flexus_policy_document", "skills"],
+  "shared_skills_allowlist": "*",
   "featured_actions": [
     {
       "feat_question": "Everything is going wrong today",

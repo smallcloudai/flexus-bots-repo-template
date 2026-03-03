@@ -1,6 +1,6 @@
 ---
-skill_label: Skill Name
-skill_description: One sentence on when to use this skill.
+name: skill-name
+description: One sentence on when to use this skill.
 ---
 
 Instructions that get loaded into context when the model activates this skill.
